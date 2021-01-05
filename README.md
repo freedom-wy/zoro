@@ -4,4 +4,4 @@
 - 🏅 微信公众号:你丫才秃头
 - 🍭 Email:dazhuang_python@sina.com
 ### 武器库列表
-- 🔭 目录扫描器：https://github.com/freedom-wy/w_dirscan
+- 🔭 web目录扫描器：https://github.com/freedom-wy/w_dirscan
