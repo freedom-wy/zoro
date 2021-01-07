@@ -4,4 +4,5 @@
 - 🏅 微信公众号:你丫才秃头
 - 🍭 Email:dazhuang_python@sina.com
 ### 武器库列表
-- 🔭 web目录扫描器：https://github.com/freedom-wy/w_dirscan
+- 🔭 web目录扫描器：https://github.com/freedom-wy/w_dirscan  
+- 🔭 phpmyadmin密码爆破并利用mysql日志写一句话shell https://github.com/freedom-wy/w_buggy
