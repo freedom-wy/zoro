@@ -7,6 +7,6 @@
 - 🔭 web目录扫描器：https://github.com/freedom-wy/w_dirscan  
 - 🔭 phpmyadmin密码爆破并利用mysql日志写一句话shell：https://github.com/freedom-wy/w_buggy
 ### 武器库参考
-- ✈ regeorg原版代码分析：https://github.com/freedom-wy/reGeorg
+- ✈ regeorg原版代码分析：https://github.com/freedom-wy/w_reGeorg
 ### 微信公众号 
 ![](gzh.jpg)
